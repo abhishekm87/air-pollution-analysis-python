@@ -57,8 +57,4 @@ Created visualizations for:
 - Pollution control strategy
 - Government reporting dashboards
 
-## How to Run Project
-
-```bash
-pip install pandas numpy matplotlib seaborn
-jupyter notebook
+## Dataset source : India Air Quality Data: https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data
